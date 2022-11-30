@@ -13,6 +13,7 @@ createCanvas(500, 500, WEBGL);
   noFill();
 }
 
+
 function draw() {
   // put drawing code here
   background(205, 105, 94);
