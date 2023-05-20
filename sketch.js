@@ -1,6 +1,6 @@
 var images=["hair.png"];
 var choosenImage;
-var caption=["OMG Kill Me Now"]  ;
+var caption=["OMG"]  ;
 var pos;
 
 
